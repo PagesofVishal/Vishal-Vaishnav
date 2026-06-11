@@ -71,22 +71,29 @@ Goal:
 
 # 📱 My Apps
 
-## 🔹 Knows More
+<table>
+<tr>
+<td width="100%">
 
-✨ A device information application designed to help users understand their smartphone in detail.
+### 🔹 Knows More
 
-* Version: Active Development
-* Platform: Android
-* Status: 🚀 In Progress
+A device information application that helps users understand their smartphone in detail.
 
-### Features
+**Features**
+- Android Version Information
+- Screen Refresh Rate Detection
+- Hardware Details
+- System Information
 
-* Android Version Information
-* Screen Refresh Rate Detection
-* Device Specifications
-* Hardware Information
-* System Details
-* Performance Insights
+<p align="center">
+  <a href="https://github.com/pagesofVishal/pagesofVishal/blob/main/apps/knowsmore.md">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:2563EB&height=120&section=header&text=Knows%20More&fontSize=40&fontColor=ffffff&desc=Download%20the%20App&descAlignY=75" />
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
