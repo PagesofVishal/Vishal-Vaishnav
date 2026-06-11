@@ -86,7 +86,7 @@ A device information application that helps users understand their smartphone in
 - System Information
 
 <p align="center">
-  <a href="https://github.com/pagesofVishal/vishal-vaishnav/apps/knowsmore.md">
+  <a href="https://github.com/PagesofVishal/Vishal-Vaishnav/blob/main/apps/knowmore.md">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:2563EB&height=120&section=header&text=Knows%20More&fontSize=40&fontColor=ffffff&desc=Download%20the%20App&descAlignY=75" />
   </a>
 </p>
