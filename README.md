@@ -130,11 +130,7 @@ Goal:
 
 <a href="https://github.com/pagesofVishal">
 GitHub
-</a>
-
-|
-
-<a href="mailto:inboxofvishal@protonmail.com">
+</a> | <a href="mailto:inboxofvishal@protonmail.com">
 Email
 </a>
 
@@ -145,7 +141,6 @@ Email
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
-
-#### "Creating digital experiences through code and design."
+## If you like my work, consider following my journey.
 
 </div>
